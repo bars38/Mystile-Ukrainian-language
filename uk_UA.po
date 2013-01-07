@@ -1,0 +1,3085 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mystile v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-25 16:16:23+0000\n"
+"Last-Translator: padmin <bars38@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:18
+#@ woothemes
+msgid "Error 404 - Page not found!"
+msgstr "Помилка 404 - Сторінка не знайдена!"
+
+#: 404.php:21
+#@ woothemes
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Сторінка, яку ви намагаєтеся досягти, не існує або була переміщена. Будь ласка, використовуйте меню або вікно пошуку, щоб знайти те, що ви шукаєте."
+
+#: archive.php:19
+#: archive.php:25
+#: archive.php:30
+#: archive.php:35
+#@ woothemes
+msgid "Archive"
+msgstr "Архів"
+
+#: archive.php:20
+#@ woothemes
+msgid "RSS feed for this section"
+msgstr "RSS для цього розділу"
+
+#: archive.php:40
+#@ woothemes
+msgid "Archive by Author"
+msgstr "Заархівовано Автором"
+
+#: archive.php:45
+#@ woothemes
+msgid "Tag Archives:"
+msgstr "Тег Архіви:"
+
+#: archive.php:75
+#: index.php:78
+#: page.php:58
+#: search.php:53
+#: single.php:95
+#: template-blog.php:70
+#: template-fullwidth.php:49
+#@ woothemes
+msgid "Sorry, no posts matched your criteria."
+msgstr "Вибачте, немає публікацій відповідним вашим вимогам."
+
+#: comments.php:25
+#@ woothemes
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Це повідомлення захищене паролем. Введіть пароль для перегляду коментарів."
+
+#: comments.php:37
+#@ woothemes
+msgid "No Responses"
+msgstr "Немає Відповідей"
+
+#: comments.php:37
+#@ woothemes
+msgid "One Response"
+msgstr "Одна Відповідь"
+
+#: comments.php:37
+#@ woothemes
+msgid "% Responses"
+msgstr "% Відповідей"
+
+#: comments.php:37
+#@ woothemes
+msgid "to"
+msgstr "до"
+
+#: comments.php:53
+#@ woothemes
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: comments.php:70
+#@ woothemes
+msgid "No comments yet."
+msgstr "Жодного коментаря."
+
+#: content.php:53
+#@ woothemes
+msgid "Continue Reading &rarr;"
+msgstr "Читати Далі &rarr;"
+
+#: footer.php:55
+#@ woothemes
+msgid "All Rights Reserved."
+msgstr "Усі Права Захищені."
+
+#: functions/admin-backup.php:77
+#@ woothemes
+msgid "WooThemes Settings Backup"
+msgstr "WooThemes Налаштування Резервування"
+
+#: functions/admin-backup.php:77
+#: functions/admin-backup.php:107
+#: functions/admin-framework-settings.php:62
+#@ woothemes
+msgid "Backup Settings"
+msgstr "Налаштування Резервування"
+
+#: functions/admin-backup.php:109
+#@ woothemes
+msgid "Import Settings"
+msgstr "Налаштування Імпорту"
+
+#: functions/admin-backup.php:111
+#@ woothemes
+msgid "If you have settings in a backup file on your computer, the WooFramework can import those into this site. To get started, upload your backup file to import from below."
+msgstr "Якщо у вас є налаштування в файл резервної копії на комп'ютері, WooFramework може імпортувати тих, хто в цьому місці. Для початку завантажте файл резервної копії, щоб імпортувати знизу."
+
+#: functions/admin-backup.php:116
+#, php-format
+#@ woothemes
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Завантажити файл (Максимальний розмір: %s)"
+
+#: functions/admin-backup.php:119
+#@ woothemes
+msgid "Upload File and Import"
+msgstr "Завантажити Файл та Імпортувати"
+
+#: functions/admin-backup.php:123
+#@ woothemes
+msgid "Export Settings"
+msgstr "Налашьування Експорту"
+
+#: functions/admin-backup.php:125
+#@ woothemes
+msgid "When you click the button below, the WooFramework will create a text file for you to save to your computer."
+msgstr "Коли ви натискаєте на кнопку нижче, WooFramework буде створити текстовий файл для вас, щоб зберегти на свій комп'ютер."
+
+#: functions/admin-backup.php:126
+#, php-format
+#@ woothemes
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr "Цей текстовий файл можна використовувати для відновлення налаштувань тут на \"%s\", або з легкістю встановити інший веб-сайт з тими ж налаштуваннями \"."
+
+#: functions/admin-backup.php:130
+#@ woothemes
+msgid "All Settings"
+msgstr "Усі Налаштування"
+
+#: functions/admin-backup.php:131
+#@ woothemes
+msgid "This will contain all of the options listed below."
+msgstr "Це буде містити всі параметри, перераховані нижче."
+
+#: functions/admin-backup.php:133
+#: functions/admin-functions.php:3152
+#: functions/admin-interface.php:190
+#@ woothemes
+msgid "Theme Options"
+msgstr "Налаштування Теми"
+
+#: functions/admin-backup.php:135
+#@ woothemes
+msgid "SEO Settings"
+msgstr "Налаштування SEO"
+
+#: functions/admin-backup.php:137
+#: functions/admin-framework-settings.php:56
+#: functions/admin-functions.php:3156
+#@ woothemes
+msgid "Sidebar Manager"
+msgstr "Бічна Панель Менеджера"
+
+#: functions/admin-backup.php:137
+#@ woothemes
+msgid "This will contain only the custom sidebars themselves and not the widgets within them"
+msgstr "This will contain only the custom sidebars themselves and not the widgets within them"
+
+#: functions/admin-backup.php:139
+#: functions/admin-functions.php:3162
+#: functions/admin-interface.php:195
+#@ woothemes
+msgid "Framework Settings"
+msgstr "Налаштування Фреймворку"
+
+#: functions/admin-backup.php:142
+#@ woothemes
+msgid "Download Export File"
+msgstr "Завантажити Експорт Файл"
+
+#: functions/admin-backup.php:165
+#@ woothemes
+msgid "Welcome to the WooThemes Backup Manager."
+msgstr "Вітаємо у Менеджері Резервування WooThemes"
+
+#: functions/admin-backup.php:166
+#@ woothemes
+msgid "Here are a few notes on using this screen."
+msgstr "Ось кілька заміток по використанню цього екрану."
+
+#: functions/admin-backup.php:167
+#@ woothemes
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr "Backup Manager дозволяє вам зробити резервну копію або відновити \"Налаштування Теми\" та інших параметрів або з текстового файлу."
+
+#: functions/admin-backup.php:168
+#@ woothemes
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr "Для створення резервної копії, просто виберіть тип налаштування ви хочете зробити резервну копію (або \"Всі Налаштування\") і натисніть \"Завантажити файл Експорт \" кнопку."
+
+#: functions/admin-backup.php:169
+#@ woothemes
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr "Щоб відновити настройки з резервної копії, переглядати файл на комп'ютері (під \"Імпорт Налаштувань\" заголовок) і натисніть кнопку \\ \\\"Завантажити та імпортувати файл \" кнопку. Це дозволить відновити тільки ті параметри, які були змінені з моменту резервного копіювання."
+
+#: functions/admin-backup.php:171
+#@ woothemes
+msgid "Please note that only valid backup files generated through the WooThemes Backup Manager should be imported."
+msgstr "Зверніть увагу, що дійсні тільки резервне копіювання файлів, отриманих в результаті Менеджер резервного копіювання WooThemes повинні бути імпортовані."
+
+#: functions/admin-backup.php:173
+#@ woothemes
+msgid "Looking for assistance?"
+msgstr "Шукаєте на допомогу?"
+
+#: functions/admin-backup.php:174
+#, php-format
+#@ woothemes
+msgid "Please post your query on the %sWooThemes Support Forums%s where we will do our best to assist you further."
+msgstr "Будь ласка надішліть ваш запит на %sWooThemes Support Forums%s  де ми зробимо все від нас залежне, щоб допомогти вам у подальшому."
+
+#: functions/admin-backup.php:194
+#, php-format
+#@ woothemes
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr "Будь ласка, зверніть увагу, що цей менеджер резервного копіювання резервне копіювання тільки настройки, а не ваш контент. Щоб створити резервну копію вмісту, будь ласка, використовуйте %sWordPress Export Tool%s."
+
+#: functions/admin-backup.php:197
+#@ woothemes
+msgid "There was a problem importing your settings. Please Try again."
+msgstr "Виникла помилкапри імпортуванні ваших налаштувань. Будь ласка, спробуйте ще раз."
+
+#: functions/admin-backup.php:199
+#@ woothemes
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr "Виникла помилкапри експортуванні ваших налаштувань. Будь ласка, спробуйте ще раз."
+
+#: functions/admin-backup.php:201
+#@ woothemes
+msgid "The import file you've provided is invalid. Please try again."
+msgstr "Файл Імпорту який ви вказали неврний. Будь ласка, спробуйте ще раз."
+
+#: functions/admin-backup.php:203
+#, php-format
+#@ woothemes
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr "Налаштування успішно імпортовані. | Повернутись до %sTheme Options%s"
+
+#: functions/admin-custom-nav.php:29
+#, php-format
+#@ woothemes
+msgid "%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! Use %3$s instead."
+msgstr "%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! Use %3$s instead."
+
+#: functions/admin-custom-nav.php:29
+#@ woothemes
+msgid "WordPress Menu Management"
+msgstr "Управління Меню WordPress"
+
+#: functions/admin-custom.php:89
+#: includes/theme-options.php:54
+#: includes/theme-options.php:75
+#@ woothemes
+msgid "General Settings"
+msgstr "Глобальні Налаштування"
+
+#: functions/admin-custom.php:92
+#: functions/admin-framework-settings.php:50
+#@ woothemes
+msgid "SEO"
+msgstr "SEO"
+
+#: functions/admin-custom.php:410
+#: functions/admin-interface.php:1458
+#@ woothemes
+msgid "@"
+msgstr "@"
+
+#: functions/admin-custom.php:628
+#@ woothemes
+msgid " Custom Settings"
+msgstr "Користувацькі Налаштування"
+
+#: functions/admin-express-functions-deprecated.php:198
+#: functions/admin-express-functions.php:214
+#@ woothemes
+msgid "You are not allowed to upload files to this site."
+msgstr "Ви не можете завантажувати файли на цьому сайті."
+
+#: functions/admin-express-functions-deprecated.php:224
+#: functions/admin-express-functions.php:240
+#, php-format
+#@ woothemes
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Неможу записати файл %1$s (%2$s)"
+
+#: functions/admin-framework-settings.php:38
+#@ woothemes
+msgid "Admin Settings"
+msgstr "Адміністраторські Налаштування"
+
+#: functions/admin-framework-settings.php:42
+#@ woothemes
+msgid "Super User (username)"
+msgstr "Супер Користувач (ім'я користувача)"
+
+#: functions/admin-framework-settings.php:43
+#, php-format
+#@ woothemes
+msgid "Enter your %s to hide the Framework Settings and Update Framework from other users. Can be reset from the %s under %s."
+msgstr "Enter your %s to hide the Framework Settings and Update Framework from other users. Can be reset from the %s under %s."
+
+#: functions/admin-framework-settings.php:43
+#@ woothemes
+msgid "username"
+msgstr "ім'я користувача"
+
+#: functions/admin-framework-settings.php:43
+#@ woothemes
+msgid "WP options page"
+msgstr "WP сторінка налаштувань"
+
+#: functions/admin-framework-settings.php:49
+#@ woothemes
+msgid "Disable SEO Menu Item"
+msgstr "Сховати SEO меню"
+
+#: functions/admin-framework-settings.php:50
+#: functions/admin-framework-settings.php:56
+#: functions/admin-framework-settings.php:62
+#, php-format
+#@ woothemes
+msgid "Disable the %s menu item in the theme menu."
+msgstr "Сховати меню %s в темі меню"
+
+#: functions/admin-framework-settings.php:55
+#@ woothemes
+msgid "Disable Sidebar Manager Menu Item"
+msgstr "Сховати Менеджер Бокової панелі"
+
+#: functions/admin-framework-settings.php:61
+#@ woothemes
+msgid "Disable Backup Settings Menu Item"
+msgstr "Сховати Меню Налаштувань Резервного Копіювання"
+
+#: functions/admin-framework-settings.php:67
+#@ woothemes
+msgid "Theme Update Notification"
+msgstr "Сповіщення Оновлень Теми"
+
+#: functions/admin-framework-settings.php:68
+#@ woothemes
+msgid "This will enable notices on your theme options page that there is an update available for your theme."
+msgstr "Це дозволить повідомлень на сторінці налаштувань теми, що є оновлення для вашої теми."
+
+#: functions/admin-framework-settings.php:73
+#@ woothemes
+msgid "WooFramework Update Notification"
+msgstr "Сповіщення Оновлень WooFramework"
+
+#: functions/admin-framework-settings.php:74
+#@ woothemes
+msgid "This will enable notices on your theme options page that there is an update available for the WooFramework."
+msgstr "Це дозволить повідомлень на сторінці налаштувань теми, що є оновлення для WooFramework."
+
+#: functions/admin-framework-settings.php:79
+#@ woothemes
+msgid "Theme Settings"
+msgstr "Налаштування Теми"
+
+#: functions/admin-framework-settings.php:83
+#@ woothemes
+msgid "Remove Generator Meta Tags"
+msgstr "Видалити Генератор Мета Тегів"
+
+#: functions/admin-framework-settings.php:84
+#@ woothemes
+msgid "This disables the output of generator meta tags in the HEAD section of your site."
+msgstr "Це відключає вивід генератора мета тегів в HEAD частині вашого сайту."
+
+#: functions/admin-framework-settings.php:89
+#@ woothemes
+msgid "Image Placeholder"
+msgstr "Image Placeholder"
+
+#: functions/admin-framework-settings.php:90
+#@ woothemes
+msgid "Set a default image placeholder for your thumbnails. Use this if you want a default image to be shown if you haven't added a custom image to your post."
+msgstr "Встановити заповнювач зображення за замовчуванням для ваших ескізів. Використовуйте це, якщо ви хочете за замовчуванням зображення, яке відображається, якщо ви ще не додали власне зображення на свій пост."
+
+#: functions/admin-framework-settings.php:95
+#@ woothemes
+msgid "Disable Shortcodes Stylesheet"
+msgstr "Сховати Shortcodes Stylesheet"
+
+#: functions/admin-framework-settings.php:96
+#@ woothemes
+msgid "This disables the output of shortcodes.css in the HEAD section of your site."
+msgstr "Це відключає вивід shortcodes.css в HEAD частині вашого сайту."
+
+#: functions/admin-framework-settings.php:101
+#@ woothemes
+msgid "Output \"Tracking Code\" Option in Header"
+msgstr "Виводити \"Код Спостереження\" у заголовку"
+
+#: functions/admin-framework-settings.php:102
+#, php-format
+#@ woothemes
+msgid "This will output the %s option in your header instead of the footer of your website."
+msgstr "Це виведе %s опцію у ваших заголовків замість колонтитул вашого сайту."
+
+#: functions/admin-framework-settings.php:102
+#: includes/theme-options.php:92
+#@ woothemes
+msgid "Tracking Code"
+msgstr "Код Спостереження"
+
+#: functions/admin-framework-settings.php:107
+#@ woothemes
+msgid "Branding"
+msgstr "Брендинг"
+
+#: functions/admin-framework-settings.php:111
+#@ woothemes
+msgid "Options panel header"
+msgstr "Опції панелі заголовку"
+
+#: functions/admin-framework-settings.php:112
+#@ woothemes
+msgid "Change the header image for the WooThemes Backend."
+msgstr "Змініть заголовок для Backend WooThemes."
+
+#: functions/admin-framework-settings.php:117
+#@ woothemes
+msgid "Options panel icon"
+msgstr "Опція панелі іконок"
+
+#: functions/admin-framework-settings.php:118
+#@ woothemes
+msgid "Change the icon image for the WordPress backend sidebar."
+msgstr "Зміна значка на зображення для бічної панелі бекенда WordPress."
+
+#: functions/admin-framework-settings.php:123
+#@ woothemes
+msgid "WordPress login logo"
+msgstr "WordPress логін лого"
+
+#: functions/admin-framework-settings.php:124
+#@ woothemes
+msgid "Change the logo image for the WordPress login page."
+msgstr "Зміна логотипу на сторінці входу в WordPress."
+
+#: functions/admin-framework-settings.php:129
+#@ woothemes
+msgid "WordPress login URL"
+msgstr "WordPress посилання для входу"
+
+#: functions/admin-framework-settings.php:130
+#@ woothemes
+msgid "Change the URL that the logo image on the WordPress login page links to."
+msgstr "Змініть URL, на що буде посилатися логотип на вході WordPress."
+
+#: functions/admin-framework-settings.php:136
+#@ woothemes
+msgid "WordPress login logo Title"
+msgstr "WordPress зоголовок на сторінці входу"
+
+#: functions/admin-framework-settings.php:137
+#@ woothemes
+msgid "Change the title of the logo image on the WordPress login page."
+msgstr "Змініть назву на зображенні логотипу входу у WordPress."
+
+#: functions/admin-framework-settings.php:162
+#@ woothemes
+msgid "WordPress Toolbar"
+msgstr "WordPress Панель Інструментів"
+
+#: functions/admin-framework-settings.php:166
+#@ woothemes
+msgid "Disable WordPress Toolbar"
+msgstr "Сховати WordPress Панель Інструментів"
+
+#: functions/admin-framework-settings.php:167
+#@ woothemes
+msgid "Disable the WordPress Toolbar."
+msgstr "Сховати WordPress Панель Інструментів"
+
+#: functions/admin-framework-settings.php:172
+#@ woothemes
+msgid "Enable the WooFramework Toolbar enhancements"
+msgstr "Включити удосконалення WooFramework Панелі Інструментів"
+
+#: functions/admin-framework-settings.php:173
+#@ woothemes
+msgid "Enable several WooFramework-specific enhancements to the WordPress Toolbar, such as custom navigation items for \"Theme Options\"."
+msgstr "Включення декількох WooFramework конкретних поліпшень в панелі інструментів WordPress, такі як користувальницькі елементи навігації для \"Налаштування Теми\"."
+
+#: functions/admin-framework-settings.php:182
+#@ woothemes
+msgid "PressTrends"
+msgstr "PressTrends"
+
+#: functions/admin-framework-settings.php:186
+#@ woothemes
+msgid "Enable PressTrends Tracking"
+msgstr "Включити моніторінг PressTrends"
+
+#: functions/admin-framework-settings.php:187
+#@ woothemes
+msgid "Enable sending of usage data to PressTrends."
+msgstr "Включити відправку даних до PressTrends"
+
+#: functions/admin-framework-settings.php:192
+#@ woothemes
+msgid "What is PressTrends?"
+msgstr "Що таке PressTrends?"
+
+#: functions/admin-framework-settings.php:195
+#, php-format
+#@ woothemes
+msgid "PressTrends is a simple usage tracker that allows us to see how our customers are using WooThemes themes - so that we can help improve them for you. %sNone%s of your personal data is sent to PressTrends.%sFor more information, please view the PressTrends %s."
+msgstr "PressTrends простий трекер використання, що дозволяє нам бачити, як наші клієнти використовують WooThemes теми - так що ми можемо допомогти поліпшити їх для вас. %sNone%s з ваших особистих даних направляється в PressTrends. %s Для додаткової інформації, будь ласка, перегляньте PressTrends %s."
+
+#: functions/admin-framework-settings.php:195
+#@ woothemes
+msgid "privacy policy"
+msgstr "політика приватності"
+
+#: functions/admin-framework-settings.php:205
+#: functions/admin-interface.php:329
+#@ woothemes
+msgid "Options Updated"
+msgstr "Налаштування Оновлено"
+
+#: functions/admin-framework-settings.php:206
+#: functions/admin-interface.php:330
+#@ woothemes
+msgid "Options Reset"
+msgstr "Скинути Налаштування"
+
+#: functions/admin-framework-settings.php:234
+#, php-format
+#@ woothemes
+msgid "Framework %s"
+msgstr "Фреймворк %s"
+
+#: functions/admin-framework-settings.php:240
+#: functions/admin-interface.php:368
+#@ woothemes
+msgid "View Changelog"
+msgstr "Переглянути лог змін"
+
+#: functions/admin-framework-settings.php:241
+#: functions/admin-interface.php:369
+#@ woothemes
+msgid "View Themedocs"
+msgstr "Переглянути документацію теми"
+
+#: functions/admin-framework-settings.php:242
+#: functions/admin-interface.php:370
+#@ woothemes
+msgid "Visit Forum"
+msgstr "Відвідати форум"
+
+#: functions/admin-framework-settings.php:243
+#: functions/admin-framework-settings.php:261
+#@ woothemes
+msgid "Working..."
+msgstr "Працюю..."
+
+#: functions/admin-framework-settings.php:243
+#: functions/admin-framework-settings.php:262
+#@ woothemes
+msgid "Save All Changes"
+msgstr "Зберегти Усі Зміни"
+
+#: functions/admin-framework-settings.php:283
+#@ woothemes
+msgid "Reset Options"
+msgstr "Скинути Налаштування"
+
+#: functions/admin-framework-settings.php:283
+#@ woothemes
+msgid "Click OK to reset. Any settings will be lost!"
+msgstr "Натисніть OK для скидання. Всі налаштування будуть втрачені!"
+
+#: functions/admin-functions.php:1039
+#@ woothemes
+msgid "less than a minute ago"
+msgstr "менше хвилини тому"
+
+#: functions/admin-functions.php:1041
+#@ woothemes
+msgid "about a minute ago"
+msgstr "близько хвилини тому"
+
+#: functions/admin-functions.php:1043
+#@ woothemes
+msgid "minutes ago"
+msgstr "хвилину тому"
+
+#: functions/admin-functions.php:1047
+#@ woothemes
+msgid "hours ago"
+msgstr "годин тому"
+
+#: functions/admin-functions.php:1051
+#@ woothemes
+msgid "days ago"
+msgstr "днів тому"
+
+#: functions/admin-functions.php:1066
+#, php-format
+#@ woothemes
+msgid "%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! Please upgrade your Theme to the latest version."
+msgstr "%1$s є <strong>застарілим</strong>, починаючи з версії %2$s WooFramework! Будь ласка, поновіть тему до останньої версії."
+
+#: functions/admin-functions.php:1513
+#, php-format
+#@ woothemes
+msgid "Page %s"
+msgstr "Сторінка %s"
+
+#: functions/admin-functions.php:1633
+#@ woothemes
+msgid "Search Results"
+msgstr "Результати Пошуку"
+
+#: functions/admin-functions.php:1634
+#@ woothemes
+msgid "Author Archives"
+msgstr "Автор Архівів"
+
+#: functions/admin-functions.php:1637
+#@ woothemes
+msgid "Category Archive"
+msgstr "Категорія Архіву"
+
+#: functions/admin-functions.php:1638
+#: functions/admin-functions.php:1643
+#@ woothemes
+msgid " Archive"
+msgstr "Архів"
+
+#: functions/admin-functions.php:1639
+#@ woothemes
+msgid "Daily Archive"
+msgstr "Щоденний Архів"
+
+#: functions/admin-functions.php:1640
+#@ woothemes
+msgid "Monthly Archive"
+msgstr "Щомісячний Архів"
+
+#: functions/admin-functions.php:1641
+#@ woothemes
+msgid "Yearly Archive"
+msgstr "Щорічний Архів"
+
+#: functions/admin-functions.php:1642
+#@ woothemes
+msgid "Tag Archive"
+msgstr "Архів Тегів"
+
+#: functions/admin-functions.php:2560
+#@ woothemes
+msgid "&larr; Previous"
+msgstr "&larr; Попередні"
+
+#: functions/admin-functions.php:2561
+#@ woothemes
+msgid "Next &rarr;"
+msgstr "Наступні &rarr;"
+
+#: functions/admin-functions.php:2683
+#@ woothemes
+msgid "You are here:"
+msgstr "Ви тут:"
+
+#: functions/admin-functions.php:2686
+#: includes/theme-woocommerce.php:271
+#@ woothemes
+msgid "Home"
+msgstr "Головна"
+
+#: functions/admin-functions.php:2851
+#@ woothemes
+msgid "g:i a"
+msgstr "g:i a"
+
+#: functions/admin-functions.php:2854
+#, php-format
+#@ woothemes
+msgid "Minute %1$s"
+msgstr "Хвилина  %1$s"
+
+#: functions/admin-functions.php:2854
+#@ woothemes
+msgid "i"
+msgstr "i"
+
+#: functions/admin-functions.php:2857
+#@ woothemes
+msgid "g a"
+msgstr "g a"
+
+#: functions/admin-functions.php:2868
+#: functions/admin-functions.php:2874
+#: functions/admin-functions.php:2879
+#: functions/admin-functions.php:2884
+#@ woothemes
+msgid "Y"
+msgstr "Y"
+
+#: functions/admin-functions.php:2869
+#: functions/admin-functions.php:2880
+#@ woothemes
+msgid "F"
+msgstr "F"
+
+#: functions/admin-functions.php:2870
+#@ woothemes
+msgid "j"
+msgstr "j"
+
+#: functions/admin-functions.php:2875
+#, php-format
+#@ woothemes
+msgid "Week %1$s"
+msgstr "Тиждень %1$s"
+
+#: functions/admin-functions.php:2875
+#@ woothemes
+msgid "W"
+msgstr "W"
+
+#: functions/admin-functions.php:2891
+#, php-format
+#@ woothemes
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Результат пошуку &quot;%1$s&quot;"
+
+#: functions/admin-functions.php:2895
+#@ woothemes
+msgid "404 Not Found"
+msgstr "404 Не Знайдено"
+
+#: functions/admin-functions.php:3141
+#@ woothemes
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#: functions/admin-functions.php:3165
+#@ woothemes
+msgid "Update Framework"
+msgstr "Оновити Фреймворк"
+
+#: functions/admin-functions.php:3539
+#@ woothemes
+msgid "Enhance your theme with WooDojo."
+msgstr "Покращіть тему з WooDojo."
+
+#: functions/admin-functions.php:3540
+#@ woothemes
+msgid "WooDojo is powerful WooThemes features suite for enhancing your website. Learn more."
+msgstr "WooDojo є потужним додатком WooThemes для покращення вашого сайту. Дізнатися більше."
+
+#: functions/admin-functions.php:3541
+#: functions/admin-functions.php:3642
+#: functions/admin-functions.php:3643
+#@ woothemes
+msgid "Get WooDojo"
+msgstr "Отримати WooDojo"
+
+#: functions/admin-functions.php:3542
+#: functions/admin-functions.php:3563
+#: functions/admin-functions.php:3614
+#: functions/admin-functions.php:3644
+#: functions/admin-functions.php:3682
+#@ woothemes
+msgid "Close"
+msgstr "Закрити"
+
+#: functions/admin-functions.php:3560
+#: functions/admin-functions.php:3562
+#@ woothemes
+msgid "Enable PressTrends"
+msgstr "Включити PressTrends"
+
+#: functions/admin-functions.php:3561
+#, php-format
+#@ woothemes
+msgid "PressTrends is a simple usage tracker that allows us to see how our customers are using WooThemes themes - so that we can help improve them for you. %sNone%s of your personal data is sent to PressTrends."
+msgstr "PressTrends простий трекер використанні, що дозволяє нам бачити, як наші клієнти використовують WooThemes теми - так що ми можемо допомогти поліпшити їх для вас. %sNone%s з ваших особистих даних направляється в PressTrends."
+
+#: functions/admin-functions.php:3576
+#@ woothemes
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Ви не маєте достатньо прав для доступу до цієї сторінки."
+
+#: functions/admin-functions.php:3578
+#@ woothemes
+msgid "You have taken too long. Please go back and retry."
+msgstr "Ви були занадто довго. Будь ласка, поверніться назад і повторіть спробу."
+
+#: functions/admin-functions.php:3612
+#@ woothemes
+msgid "WooSEO is deprecated from version 5.4.0 of the WooFramework."
+msgstr "WooSEO застаріла починаючи з версії 5.4.0 на WooFramework."
+
+#: functions/admin-functions.php:3613
+#, php-format
+#@ woothemes
+msgid "While we won&#39;t be removing it until 31 October 2012, we encourage you to use the %1$s"
+msgstr "Хоча ми і не будемо видаляти його до 31 жовтня 2012 року, ми рекомендуємо вам використовувати %1$s"
+
+#: functions/admin-functions.php:3613
+#@ woothemes
+msgid "Get WordPress SEO"
+msgstr "Отримай WordPress SEO"
+
+#: functions/admin-functions.php:3613
+#@ woothemes
+msgid "WordPress SEO Plugin"
+msgstr "Плагін WordPress SEO"
+
+#: functions/admin-functions.php:3613
+#@ woothemes
+msgid "If you need help moving your existing SEO data, WordPress SEO has a built-in importer to move your data over."
+msgstr "Якщо вам потрібна допомога в переміщенні існуючих даних SEO, WordPress SEO має вбудований імпортер, щоб перемістити дані по."
+
+#: functions/admin-functions.php:3640
+#@ woothemes
+msgid "WooSidebars is deprecated from version 5.4.0 of the WooFramework."
+msgstr "WooSidebars застаріла починаючи з версії 5.4.0 на WooFramework."
+
+#: functions/admin-functions.php:3641
+#@ woothemes
+msgid "While we won't be removing it until 31 October 2012, we encourage you to use the new and improved"
+msgstr "Хоча ми і не будемо видаляти його до 31 жовтня 2012 року, ми рекомендуємо вам використовувати нові та покращені."
+
+#: functions/admin-functions.php:3642
+#, php-format
+#@ woothemes
+msgid "version of %1$s in our free plugin, %2$s."
+msgstr "версія %1$s у наших безкоштовних плагінах, %2$s."
+
+#: functions/admin-functions.php:3642
+#@ woothemes
+msgid "Get WooSidebars"
+msgstr "Отримай WooSidebars"
+
+#: functions/admin-functions.php:3642
+#@ woothemes
+msgid "WooSidebars"
+msgstr "WooSidebars"
+
+#: functions/admin-functions.php:3642
+#@ woothemes
+msgid "WooDojo"
+msgstr "WooDojo"
+
+#: functions/admin-functions.php:3678
+#@ woothemes
+msgid "ATTENTION: Insecure Version of Timthumb Image Resize Script Detected"
+msgstr "УВАГА: Виявлено небезпечний версія скрипту зміни розміру зображення"
+
+#: functions/admin-functions.php:3679
+#@ woothemes
+msgid "A possible old version of the TimThumb script was detected in your theme folder. Please remove the following files from your theme as a security precaution"
+msgstr "Можливо стара версія TimThumb сценарію була виявлена ​​в папці теми. Будь ласка, видаліть наступні файли з вашої теми в якості запобіжного заходу"
+
+#: functions/admin-interface.php:358
+#@ woothemes
+msgid "Framework"
+msgstr "Фреймворк"
+
+#: functions/admin-interface.php:393
+#@ woothemes
+msgid "Error"
+msgstr "Помилка"
+
+#: functions/admin-interface.php:400
+#@ woothemes
+msgid "An Error Occured"
+msgstr "Виникла помилка"
+
+#: functions/admin-interface.php:403
+#@ woothemes
+msgid "Something went wrong while trying to load your Theme Options panel."
+msgstr "Щось пішло не так при спробі завантажити вашу Тему Налаштувань панелі."
+
+#: functions/admin-interface.php:404
+#, php-format
+#@ woothemes
+msgid "Please reload the page, if this error persists, please get in touch with us through our %1$s."
+msgstr "Будь ласка, перезавантажте сторінку, якщо ця помилка не усунеться, будь ласка, зв'яжіться з нами через наші %1$s."
+
+#: functions/admin-interface.php:404
+#@ woothemes
+msgid "Support Desk"
+msgstr "Служба підтримки"
+
+#: functions/admin-interface.php:927
+#@ woothemes
+msgid "Options Saved Successfully"
+msgstr "Налаштування Успішно Збережено"
+
+#: functions/admin-interface.php:931
+#@ woothemes
+msgid "There was an error while saving your options. Please try again."
+msgstr "Виникла помилка при збереженні параметрів. Будь ласка, спробуйте ще раз."
+
+#: functions/admin-interface.php:935
+#@ woothemes
+msgid "Options Reset Successfully"
+msgstr "Налаштування Скинуті Успішно"
+
+#: functions/admin-interface.php:1562
+#@ woothemes
+msgid "You are not able to update this option because you lack the <code>unfiltered_html</code> capability."
+msgstr "Ви не в змозі оновлювати цей варіант, тому що вам не вистачає <code>unfiltered_html</code> можливостями."
+
+#: functions/admin-interface.php:1709
+#@ woothemes
+msgid "New Version"
+msgstr "Нова Версія"
+
+#: functions/admin-interface.php:1710
+#@ woothemes
+msgid "New Feature"
+msgstr "Нова Опція"
+
+#: functions/admin-interface.php:1711
+#@ woothemes
+msgid "Bugfix"
+msgstr "Виправлення"
+
+#: functions/admin-interface.php:1735
+#@ woothemes
+msgid "Theme update is available"
+msgstr "Можливе оновлення Теми"
+
+#: functions/admin-interface.php:1735
+#@ woothemes
+msgid "Get the new version"
+msgstr "Отримайте нову версію"
+
+#: functions/admin-interface.php:1735
+#, php-format
+#@ woothemes
+msgid "Update Type: %s"
+msgstr "Тип Оновлення: %s"
+
+#: functions/admin-interface.php:1764
+#@ woothemes
+msgid "ATTENTION: A possible old version of the TimThumb script was detected in your theme folder. Please remove the following files from your theme as a security precaution"
+msgstr "УВАГА: можливо стара версія TimThumb сценарію була виявлена ​​в папці теми. Будь ласка, видаліть наступні файли з вашої теми в якості запобіжного заходу"
+
+#: functions/admin-interface.php:1808
+#, php-format
+#@ woothemes
+msgid "Theme update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr "Тема доступне оновлення (v%s). %sЗавантажте нову версію%s (%sПерегляньте Лог Зміг%s)"
+
+#: functions/admin-interface.php:1836
+#, php-format
+#@ woothemes
+msgid "WooFramework update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr "WooFramework доступне оновлення (v%s). %sЗавантажити нову версію%s (%sПереглянути Лог Змін%s)"
+
+#: functions/admin-interface.php:1884
+#, php-format
+#@ woothemes
+msgid "An important WooFramework update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr "Доступне важливе оновлення WooFramework (v%s). %sЗавантажити нову версію%s (%sПереглянути Лог Змін%s)"
+
+#: functions/admin-medialibrary-uploader.php:51
+#@ woothemes
+msgid "WooFramework Internal Container"
+msgstr "WooFramework внутрішній контейнер"
+
+#: functions/admin-medialibrary-uploader.php:155
+#@ woothemes
+msgid "Upload"
+msgstr "Завантажити"
+
+#: functions/admin-medialibrary-uploader.php:181
+#@ woothemes
+msgid "View File"
+msgstr "Переглянути Файл"
+
+#: functions/admin-medialibrary-uploader.php:316
+#@ woothemes
+msgid "Gallery"
+msgstr "Галерея"
+
+#: functions/admin-medialibrary-uploader.php:316
+#@ woothemes
+msgid "Previously Uploaded"
+msgstr "Попередньо Завантажений"
+
+#: functions/admin-medialibrary-uploader.php:333
+#@ woothemes
+msgid "Use this Image"
+msgstr "Використати це Зображення"
+
+#: functions/admin-medialibrary-uploader.php:334
+#, php-format
+#@ woothemes
+msgid "Use as %s"
+msgstr "Використати як %s"
+
+#: functions/admin-shortcodes.php:332
+#, php-format
+#@ woothemes
+msgid "%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! Please upgrade your WordPress to the latest version to use the latest functionality."
+msgstr "%1$s є <strong>застарілим</strong>, починаючи з версії %2$s років WooFramework! Будь ласка, поновіть WordPress до останньої версії використовувати новітні функціональні можливості."
+
+#: functions/admin-shortcodes.php:857
+#@ woothemes
+msgid "Hide the Content"
+msgstr "Сховати Вміст"
+
+#: functions/admin-shortcodes.php:858
+#@ woothemes
+msgid "Show the Content"
+msgstr "Показати Вміст"
+
+#: functions/admin-shortcodes.php:865
+#@ woothemes
+msgid "Read More"
+msgstr "Читати Далі"
+
+#: functions/admin-shortcodes.php:866
+#@ woothemes
+msgid "Read Less"
+msgstr "Читати Менше"
+
+#: functions/admin-shortcodes.php:974
+#@ woothemes
+msgid "Message via the contact form"
+msgstr "Повідомлення через форму контакту"
+
+#: functions/admin-shortcodes.php:975
+#: includes/theme-functions.php:221
+#: includes/theme-functions.php:230
+#: template-contact.php:215
+#@ woothemes
+msgid "Submit"
+msgstr "Відправити"
+
+#: functions/admin-shortcodes.php:1264
+#@ woothemes
+msgid "Please enter your name"
+msgstr "Будь-ласка введіть ваше ім'я"
+
+#: functions/admin-shortcodes.php:1265
+#@ woothemes
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr "Будь ласка, введіть Вашу адресу електронної пошти (і, будь ласка, переконайтеся, що вона вірна)"
+
+#: functions/admin-shortcodes.php:1266
+#@ woothemes
+msgid "Please enter your message"
+msgstr "Будь-ласка введіть текст вашого повідомлення"
+
+#: functions/admin-shortcodes.php:1331
+#: functions/admin-shortcodes.php:1337
+#: template-contact.php:67
+#: template-contact.php:73
+#@ woothemes
+msgid "From: "
+msgstr "Від:"
+
+#: functions/admin-shortcodes.php:1331
+#: functions/admin-shortcodes.php:1337
+#: template-contact.php:67
+#@ woothemes
+msgid "Reply-To: "
+msgstr "Відвовісти:"
+
+#: functions/admin-shortcodes.php:1356
+#: template-contact.php:131
+#@ woothemes
+msgid "Your email was successfully sent."
+msgstr "Ваше повідомлення було успішно відправлене."
+
+#: functions/admin-shortcodes.php:1362
+#@ woothemes
+msgid "There were one or more errors while submitting the form."
+msgstr "Були одна або декілька помилок при відправці форми."
+
+#: functions/admin-shortcodes.php:1367
+#: template-contact.php:186
+#@ woothemes
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr "Адреса електронної пошти не був налаштований правильно. Будь ласка, додайте ваші контактні адреси електронної пошти!"
+
+#: functions/admin-shortcodes.php:1386
+#: includes/theme-functions.php:299
+#: template-contact.php:193
+#@ woothemes
+#@ default
+msgid "Name"
+msgstr "Ім'я"
+
+#: functions/admin-shortcodes.php:1395
+#: includes/theme-functions.php:303
+#: template-contact.php:200
+#@ woothemes
+#@ default
+msgid "Email"
+msgstr "Email"
+
+#: functions/admin-shortcodes.php:1404
+#: template-contact.php:207
+#@ woothemes
+msgid "Message"
+msgstr "Повідомлення"
+
+#: functions/admin-shortcodes.php:1522
+#: template-contact.php:213
+#@ woothemes
+msgid "Send a copy of this email to yourself"
+msgstr "Надіслати копію цього листа собі"
+
+#: functions/admin-shortcodes.php:1529
+#: template-contact.php:214
+#@ woothemes
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "Якщо ви хочете відправити цю форму, не вводьте нічого в цьому полі"
+
+#: functions/admin-shortcodes.php:1842
+#: functions/admin-shortcodes.php:1877
+#: functions/admin-shortcodes.php:1887
+#, php-format
+#@ woothemes
+msgid "My %s Profile"
+msgstr "Мій %s Профіль"
+
+#: functions/admin-shortcodes.php:1856
+#@ woothemes
+msgid "Subscribe to our RSS feed"
+msgstr "Підпишіться на наш канал RSS"
+
+#: functions/admin-shortcodes.php:2164
+#@ woothemes
+msgid "Follow"
+msgstr "Підписатися"
+
+#: functions/admin-shortcodes.php:2281
+#@ woothemes
+msgid "Pin It"
+msgstr "Pin It"
+
+#: functions/classes/class-wp-app-store-installer.php:227
+#@ default
+msgid "Sorry, we could not reach the WP App Store to setup the auto installer. Please try again later."
+msgstr ""
+
+#: functions/classes/class-wp-app-store-installer.php:228
+#@ default
+msgid "In the meantime, you can check out the WP App Store at <a href=\"http://wpappstore.com/\">http://wpappstore.com/</a>."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:52
+#@ woothemes
+msgid "Customize the Shortcode"
+msgstr "Налаштуйте Shortcode"
+
+#: functions/js/shortcode-generator/dialog.php:67
+#@ woothemes
+msgid "Ninja Trouble"
+msgstr "Ninja Trouble"
+
+#: functions/js/shortcode-generator/dialog.php:70
+#, php-format
+#@ woothemes
+msgid "Your version of the WooFramework (%s) does not yet support shortcodes. Shortcodes were introduced with version %s of the framework."
+msgstr "Ваша версія WooFramework (%s) ще не підтримує короткі номери. Короткі були введені з версії %s з фреймворку."
+
+#: functions/js/shortcode-generator/dialog.php:72
+#: functions/js/shortcode-generator/dialog.php:86
+#@ woothemes
+msgid "What to do now?"
+msgstr "Що зробимо тепер?"
+
+#: functions/js/shortcode-generator/dialog.php:74
+#@ woothemes
+msgid "Upgrading your theme, or rather the WooFramework portion of it, will do the trick."
+msgstr "Оновлення теми, або, скоріше, WooFramework частина, буде робити трюк."
+
+#: functions/js/shortcode-generator/dialog.php:76
+#, php-format
+#@ woothemes
+msgid "The framework is a collection of functionality that all WooThemes have in common. In most cases you can update the framework even if you have modified your theme, because the framework resides in a separate location (under %s)."
+msgstr "Структура являє собою набір функціональних можливостей, які все WooThemes є спільного. У більшості випадків ви можете оновити рамки, навіть якщо ви змінили вашу тему, тому що рамки знаходиться в окремому місці (під %s)."
+
+#: functions/js/shortcode-generator/dialog.php:78
+#, php-format
+#@ woothemes
+msgid "There's a tutorial on how to do this on WooThemes.com: %sHow to upgradeyour theme%s."
+msgstr "Там є підручник про те, як зробити це на WooThemes.com:  %sПоказати на upgradeyour з темою%s."
+
+#: functions/js/shortcode-generator/dialog.php:80
+#@ woothemes
+msgid "<strong>Remember:</strong> Every Ninja has a backup plan. Safe or not, always backup your theme before you update it or make changes to it."
+msgstr "<strong>Пам'ятайте: </strong> Кожен ніндзя має план резервного копіювання. Безпечний чи ні, завжди резервну копію вашої теми, перш ніж оновлювати його або внести до нього зміни."
+
+#: functions/js/shortcode-generator/dialog.php:84
+#@ woothemes
+msgid "Looks like your active theme is not from WooThemes. The shortcode generator only works with themes from WooThemes."
+msgstr "Схоже, ваш активна тема не від WooThemes. Короткий генератор працює тільки з темою з WooThemes."
+
+#: functions/js/shortcode-generator/dialog.php:88
+#@ woothemes
+msgid "Pick a fight: (1) If you already have a theme from WooThemes, install and activate it or (2) if you don't yet have one of the awesome WooThemes head over to the <a href=\"http://www.woothemes.com/themes/\" target=\"_blank\" title=\"WooThemes Gallery\">WooThemes Gallery</a> and get one."
+msgstr "Вибрати бою: (1) Якщо у вас вже є тема від WooThemes, встановити і активувати його або (2), якщо ви ще не один з дивовижною головою WooThemes до <a href=\"http://www.woothemes.com/themes/\" target=\"_blank\" title=\"WooThemes Gallery\"> WooThemes Галерея </a> і отримати один."
+
+#: header.php:54
+#@ woothemes
+msgid "Оплатить"
+msgstr "Сплатити"
+
+#: header.php:93
+#@ woothemes
+msgid "Главная"
+msgstr "Головна"
+
+#: includes/theme-comments.php:26
+#@ woothemes
+msgid "at"
+msgstr "на"
+
+#: includes/theme-comments.php:27
+#@ woothemes
+msgid "Direct link to this comment"
+msgstr "Пряме посилання на цей коментар"
+
+#: includes/theme-comments.php:27
+#@ woothemes
+msgid "Permalink"
+msgstr "Постійне посилання"
+
+#: includes/theme-comments.php:28
+#: includes/theme-functions.php:162
+#@ woothemes
+msgid "Edit"
+msgstr "Редагувати"
+
+#: includes/theme-comments.php:35
+#@ woothemes
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує модерації."
+
+#: includes/theme-functions.php:96
+#@ woothemes
+msgid "Primary Menu"
+msgstr "Головне Меню"
+
+#: includes/theme-functions.php:97
+#@ woothemes
+msgid "Top Menu"
+msgstr "Верхнье Меню"
+
+#: includes/theme-functions.php:130
+#@ woothemes
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старі записи"
+
+#: includes/theme-functions.php:131
+#@ woothemes
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Нові записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/theme-functions.php:160
+#: template-timeline.php:88
+#@ woothemes
+msgid "Leave a comment"
+msgstr "Залиште коментар"
+
+#: includes/theme-functions.php:160
+#@ woothemes
+msgid "1 Comment"
+msgstr "1 Коментар"
+
+#: includes/theme-functions.php:160
+#@ woothemes
+msgid "% Comments"
+msgstr "% Коментарів"
+
+#: includes/theme-functions.php:180
+#: includes/theme-functions.php:210
+#: includes/widgets/widget-woo-subscribe.php:42
+#@ woothemes
+msgid "Subscribe"
+msgstr "Підписатися"
+
+#: includes/theme-functions.php:182
+#@ woothemes
+msgid "Subscribe to our e-mail newsletter to receive updates."
+msgstr "Підпишіться на нашу розсилку, щоб отримувати оновлення."
+
+#: includes/theme-functions.php:217
+#: includes/theme-functions.php:229
+#@ woothemes
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/theme-functions.php:270
+#@ woothemes
+msgid "Related Posts:"
+msgstr "Схожі Записи:"
+
+#: includes/theme-functions.php:292
+#@ woothemes
+msgid "Required"
+msgstr "Необхідні"
+
+#: includes/theme-functions.php:307
+#@ default
+msgid "Website"
+msgstr ""
+
+#: includes/theme-functions.php:327
+#@ woothemes
+msgid "Submit Comment"
+msgstr "Залишити Коментар"
+
+#: includes/theme-functions.php:328
+#@ woothemes
+msgid "Click here to cancel reply."
+msgstr "Натисніть тут, щоб скасувати відповідь."
+
+#: includes/theme-options.php:58
+#@ woothemes
+msgid "Quick Start"
+msgstr "Швидкий Старт"
+
+#: includes/theme-options.php:61
+#@ woothemes
+msgid "Theme Stylesheet"
+msgstr "Theme Stylesheet"
+
+#: includes/theme-options.php:62
+#@ woothemes
+msgid "Select your themes alternative color scheme."
+msgstr "Оберіть теми альтернативної колірної схеми."
+
+#: includes/theme-options.php:68
+#@ woothemes
+msgid "Custom Logo"
+msgstr "Звичний Логотип"
+
+#: includes/theme-options.php:69
+#@ woothemes
+msgid "Upload a logo for your theme, or specify an image URL directly."
+msgstr "Завантажити логотип для вашої темою, або вказати URL зображення безпосередньо."
+
+#: includes/theme-options.php:74
+#@ woothemes
+msgid "Text Title"
+msgstr "Заголовок Тексту"
+
+#: includes/theme-options.php:75
+#, php-format
+#@ woothemes
+msgid "Enable text-based Site Title and Tagline. Setup title & tagline in %1$s."
+msgstr "Включення текстових назва сайту та слоган. Встановлення назви та слогана %1$s."
+
+#: includes/theme-options.php:80
+#@ woothemes
+msgid "Site Description"
+msgstr "Опис Сайту"
+
+#: includes/theme-options.php:81
+#@ woothemes
+msgid "Enable the site description/tagline under site title."
+msgstr "Включити опис сайту/слоган під назву сайту."
+
+#: includes/theme-options.php:86
+#@ woothemes
+msgid "Custom Favicon"
+msgstr "Стандартний Favicon"
+
+#: includes/theme-options.php:87
+#, php-format
+#@ woothemes
+msgid "Upload a 16px x 16px %1$s that will represent your website's favicon."
+msgstr "Додати 16px х 16px %1$s, яка представлятиме значок вашого сайту."
+
+#: includes/theme-options.php:87
+#@ woothemes
+msgid "ico image"
+msgstr "ico зображення"
+
+#: includes/theme-options.php:93
+#@ woothemes
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "Вставте ваш Google Analytics (або інший) код відстеження тут. Це буде добавлено в колонтитул шаблону вашої теми."
+
+#: includes/theme-options.php:98
+#@ woothemes
+msgid "Subscription Settings"
+msgstr "Налаштування Підписки"
+
+#: includes/theme-options.php:101
+#@ woothemes
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: includes/theme-options.php:102
+#@ woothemes
+msgid "Enter your preferred RSS URL. (Feedburner or other)"
+msgstr "Вкажіть переважний URL RSS. (Feedburner або інший)"
+
+#: includes/theme-options.php:107
+#@ woothemes
+msgid "E-Mail Subscription URL"
+msgstr "E-mail Підписка URL"
+
+#: includes/theme-options.php:108
+#@ woothemes
+msgid "Enter your preferred E-mail subscription URL. (Feedburner or other)"
+msgstr "Вкажіть переважний електронної пошти підписка URL. (Feedburner або інший)"
+
+#: includes/theme-options.php:113
+#@ woothemes
+msgid "Display Options"
+msgstr "Показати Налаштування"
+
+#: includes/theme-options.php:116
+#@ woothemes
+msgid "Custom CSS"
+msgstr "Звичайний CSS"
+
+#: includes/theme-options.php:117
+#@ woothemes
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Швидко додати CSS до вашої теми, додавши його у цьому блоці."
+
+#: includes/theme-options.php:122
+#@ woothemes
+msgid "Post/Page Comments"
+msgstr "Запис/Сторінка Коментарів"
+
+#: includes/theme-options.php:123
+#@ woothemes
+msgid "Select if you want to enable/disable comments on posts and/or pages."
+msgstr "Виберіть, якщо ви хочете включити/відключити коментарі на посади та / або сторінок."
+
+#: includes/theme-options.php:127
+#@ woothemes
+msgid "Posts Only"
+msgstr "Лише Записи"
+
+#: includes/theme-options.php:127
+#@ woothemes
+msgid "Pages Only"
+msgstr "Лише Сторінки"
+
+#: includes/theme-options.php:127
+#@ woothemes
+msgid "Pages / Posts"
+msgstr "Сторінки / Записи"
+
+#: includes/theme-options.php:127
+#@ woothemes
+msgid "None"
+msgstr "Жоден"
+
+#: includes/theme-options.php:129
+#@ woothemes
+msgid "Post Content"
+msgstr "Зміст Запису"
+
+#: includes/theme-options.php:130
+#@ woothemes
+msgid "Select if you want to show the full content or the excerpt on posts."
+msgstr "Виберіть, якщо ви хочете, щоб показати повне утримання або витримки на постах."
+
+#: includes/theme-options.php:133
+#@ woothemes
+msgid "The Excerpt"
+msgstr "Витримки"
+
+#: includes/theme-options.php:133
+#@ woothemes
+msgid "Full Content"
+msgstr "Увесь Зміст"
+
+#: includes/theme-options.php:135
+#@ woothemes
+msgid "Display Breadcrumbs"
+msgstr "Показати Breadcrumbs"
+
+#: includes/theme-options.php:136
+#@ woothemes
+msgid "Display dynamic breadcrumbs on each page of your website."
+msgstr "Відображення динамічних крихт на кожній сторінці вашого сайту."
+
+#: includes/theme-options.php:141
+#@ woothemes
+msgid "Display Pagination"
+msgstr "Показати розбивку на сторінки"
+
+#: includes/theme-options.php:142
+#@ woothemes
+msgid "Display pagination on the blog."
+msgstr "Показати розбиття на сторінки блогу."
+
+#: includes/theme-options.php:147
+#@ woothemes
+msgid "Pagination Style"
+msgstr "Стиль розбивки на сторінки"
+
+#: includes/theme-options.php:148
+#@ woothemes
+msgid "Select the style of pagination you would like to use on the blog."
+msgstr "Виберіть стиль нумерації сторінок ви хотіли б використовувати на блозі."
+
+#: includes/theme-options.php:151
+#@ woothemes
+msgid "Numbers"
+msgstr "Числа"
+
+#: includes/theme-options.php:151
+#@ woothemes
+msgid "Next/Previous"
+msgstr "Наступний/Попередній"
+
+#: includes/theme-options.php:155
+#@ woothemes
+msgid "Styling Options"
+msgstr "Налаштування Стилів"
+
+#: includes/theme-options.php:159
+#@ woothemes
+msgid "Background"
+msgstr "Задній фон"
+
+#: includes/theme-options.php:162
+#@ woothemes
+msgid "Body Background Color"
+msgstr "Колір Тіла Сторінки"
+
+#: includes/theme-options.php:163
+#@ woothemes
+msgid "Pick a custom color for background color of the theme e.g. #697e09"
+msgstr "Виберіть колір для фону колір теми, наприклад #697e09"
+
+#: includes/theme-options.php:168
+#@ woothemes
+msgid "Body background image"
+msgstr "Зображення тіла фону"
+
+#: includes/theme-options.php:169
+#@ woothemes
+msgid "Upload an image for the theme's background"
+msgstr "Завантажити зображення для фону тему в"
+
+#: includes/theme-options.php:174
+#@ woothemes
+msgid "Background image repeat"
+msgstr "Повтору фонового зображення"
+
+#: includes/theme-options.php:175
+#@ woothemes
+msgid "Select how you would like to repeat the background-image"
+msgstr "Виберіть, як ви хочете, щоб повторити фонове зображення"
+
+#: includes/theme-options.php:181
+#@ woothemes
+msgid "Background image position"
+msgstr "Положення фонового зображення"
+
+#: includes/theme-options.php:182
+#@ woothemes
+msgid "Select how you would like to position the background"
+msgstr "Виберіть, як ви хочете позиціонувати фон"
+
+#: includes/theme-options.php:188
+#@ woothemes
+msgid "Background Attachment"
+msgstr "Фон вкладень"
+
+#: includes/theme-options.php:189
+#@ woothemes
+msgid "Select whether the background should be fixed or move when the user scrolls"
+msgstr "Виберіть, чи буде фон повинен бути фіксованим або рухатися, коли користувач прокручує"
+
+#: includes/theme-options.php:195
+#@ woothemes
+msgid "Links"
+msgstr "Посилання"
+
+#: includes/theme-options.php:198
+#@ woothemes
+msgid "Link Color"
+msgstr "Колір Посилання"
+
+#: includes/theme-options.php:199
+#@ woothemes
+msgid "Pick a custom color for links or add a hex color code e.g. #697e09"
+msgstr "Виберіть колір для посилання або додати шестигранні наприклад, код кольору #697e09"
+
+#: includes/theme-options.php:204
+#@ woothemes
+msgid "Link Hover Color"
+msgstr "Колір посилання при наведенні"
+
+#: includes/theme-options.php:205
+#@ woothemes
+msgid "Pick a custom color for links hover or add a hex color code e.g. #697e09"
+msgstr "Виберіть колір для посилання наведенні або додати шестигранні наприклад, код кольору #697e09"
+
+#: includes/theme-options.php:210
+#@ woothemes
+msgid "Button Color"
+msgstr "Колір Кнопки"
+
+#: includes/theme-options.php:211
+#@ woothemes
+msgid "Pick a custom color for buttons or add a hex color code e.g. #697e09"
+msgstr "Виберіть колір для кнопок або додати шестигранні наприклад, код кольору #697e09"
+
+#: includes/theme-options.php:218
+#@ woothemes
+msgid "Typography"
+msgstr "Типографія"
+
+#: includes/theme-options.php:222
+#@ woothemes
+msgid "Enable Custom Typography"
+msgstr "Включення користувальницької Типографії"
+
+#: includes/theme-options.php:223
+#@ woothemes
+msgid "Enable the use of custom typography for your site. Custom styling will be output in your sites HEAD."
+msgstr "Дозволити використання користувальницьких друкарні для вашого сайту. Користувальницькі стилі будуть виводитися у вашому HEAD тезі."
+
+#: includes/theme-options.php:228
+#@ woothemes
+msgid "General Typography"
+msgstr "Головна Типографія"
+
+#: includes/theme-options.php:229
+#@ woothemes
+msgid "Change the general font."
+msgstr "Змінити основний шрифт."
+
+#: includes/theme-options.php:234
+#@ woothemes
+msgid "Navigation"
+msgstr "Навігація"
+
+#: includes/theme-options.php:235
+#@ woothemes
+msgid "Change the navigation font."
+msgstr "Зміна шрифту навігації."
+
+#: includes/theme-options.php:240
+#@ woothemes
+msgid "Page Title"
+msgstr "Заголовок Сторінки"
+
+#: includes/theme-options.php:241
+#@ woothemes
+msgid "Change the page title."
+msgstr "Змінити заголовок сторінки."
+
+#: includes/theme-options.php:246
+#@ woothemes
+msgid "Post Title"
+msgstr "Заголовок Запису"
+
+#: includes/theme-options.php:247
+#@ woothemes
+msgid "Change the post title."
+msgstr "Змінити заголовок запису."
+
+#: includes/theme-options.php:252
+#@ woothemes
+msgid "Post Meta"
+msgstr "Мета тег Запису"
+
+#: includes/theme-options.php:253
+#@ woothemes
+msgid "Change the post meta."
+msgstr "Змінити мета тег запису."
+
+#: includes/theme-options.php:258
+#@ woothemes
+msgid "Post Entry"
+msgstr "Вступ Запису"
+
+#: includes/theme-options.php:259
+#@ woothemes
+msgid "Change the post entry."
+msgstr "Змінити вступ запису."
+
+#: includes/theme-options.php:264
+#@ woothemes
+msgid "Widget Titles"
+msgstr "Заголовки Віджетів"
+
+#: includes/theme-options.php:265
+#@ woothemes
+msgid "Change the widget titles."
+msgstr "Змінити заголовки віджету."
+
+#: includes/theme-options.php:272
+#@ woothemes
+msgid "Layout Options"
+msgstr "Параметри макету"
+
+#: includes/theme-options.php:276
+#@ woothemes
+msgid "Enable boxed layout"
+msgstr "Включити коробку макету"
+
+#: includes/theme-options.php:277
+#@ woothemes
+msgid "Wrap your site content inside a frame."
+msgstr "Оберніть ваш сайт вмістом всередині кадру."
+
+#: includes/theme-options.php:283
+#@ woothemes
+msgid "Main Layout"
+msgstr "Головний Шаблон"
+
+#: includes/theme-options.php:284
+#@ woothemes
+msgid "Select which layout you want for your site."
+msgstr "Виберіть, який макет ви хочете для вашого сайту."
+
+#: includes/theme-options.php:293
+#@ woothemes
+msgid "Category Exclude - Homepage"
+msgstr "Категорія Exclude - Головна сторінка"
+
+#: includes/theme-options.php:294
+#@ woothemes
+msgid "Specify a comma seperated list of category IDs or slugs that you'd like to exclude from your homepage (eg: uncategorized)."
+msgstr "Вкажіть, розділених комами список ідентифікаторів категорії або слимаки, що ви хотіли б виключити з домашньої сторінки (наприклад: Без рубрики)."
+
+#: includes/theme-options.php:299
+#@ woothemes
+msgid "Category Exclude - Blog Page Template"
+msgstr "Категорія Exclude - блог шаблон сторінки"
+
+#: includes/theme-options.php:300
+#@ woothemes
+msgid "Specify a comma seperated list of category IDs or slugs that you'd like to exclude from your 'Blog' page template (eg: uncategorized)."
+msgstr "Вкажіть комами список ідентифікаторів категорії або слимаки, що ви хотіли б виключити з «блог» шаблон сторінки (наприклад: Без рубрики)."
+
+#: includes/theme-options.php:306
+#@ woothemes
+msgid "Homepage"
+msgstr "Домашня сторінка"
+
+#: includes/theme-options.php:310
+#: includes/theme-options.php:318
+#: includes/theme-options.php:866
+#@ woothemes
+msgid "Featured Image"
+msgstr "Вибрані зображення"
+
+#: includes/theme-options.php:312
+#@ woothemes
+msgid "Display a banner"
+msgstr "Показати банер"
+
+#: includes/theme-options.php:313
+#@ woothemes
+msgid "Display a banner on the homepage?"
+msgstr "Показувати банер на головній сторінці?"
+
+#: includes/theme-options.php:319
+#@ woothemes
+msgid "Upload a graphic to appear as a banner on the homepage."
+msgstr "Завантажити графічний виступати в якості банера на головній сторінці."
+
+#: includes/theme-options.php:324
+#@ woothemes
+msgid "Banner headline"
+msgstr "Банер заголовка"
+
+#: includes/theme-options.php:325
+#@ woothemes
+msgid "The headline which will overlay your banner."
+msgstr "У заголовку якого буде накладати свій банер."
+
+#: includes/theme-options.php:330
+#@ woothemes
+msgid "Banner stand first"
+msgstr "Банер спочатку"
+
+#: includes/theme-options.php:331
+#@ woothemes
+msgid "The copy which overlays the banner beneath the headline."
+msgstr "Примірнику, який накладається на банері під заголовком."
+
+#: includes/theme-options.php:337
+#@ woothemes
+msgid "Banner text colour"
+msgstr "Колір тексту банера"
+
+#: includes/theme-options.php:338
+#@ woothemes
+msgid "Pick a custom color for the text overlayed on the banner"
+msgstr "Виберіть колір для тексту, накладених на банері"
+
+#: includes/theme-options.php:343
+#@ woothemes
+msgid "Sidebar"
+msgstr "Бокова панель"
+
+#: includes/theme-options.php:345
+#@ woothemes
+msgid "Display a sidebar"
+msgstr "Показувати бічну панель"
+
+#: includes/theme-options.php:346
+#@ woothemes
+msgid "Display a sidebar on the homepage?"
+msgstr "Показувати бічну панель на головній сторінці?"
+
+#: includes/theme-options.php:351
+#: includes/theme-options.php:404
+#: template-sitemap.php:85
+#@ woothemes
+msgid "Products"
+msgstr "Товари"
+
+#: includes/theme-options.php:353
+#@ woothemes
+msgid "Display product categories"
+msgstr "Показувати категорії продуктів"
+
+#: includes/theme-options.php:354
+#@ woothemes
+msgid "Display product categories on the homepage?"
+msgstr "Показувати категорії товарів на головній сторінці?"
+
+#: includes/theme-options.php:358
+#@ woothemes
+msgid "Display featured products"
+msgstr "Показати Рекомендовані товари"
+
+#: includes/theme-options.php:359
+#@ woothemes
+msgid "Display features products on the homepage?"
+msgstr "Показати особливості продуктів на головній сторінці?"
+
+#: includes/theme-options.php:363
+#@ woothemes
+msgid "Display how many featured products?"
+msgstr "Показати, скільки представлена ​​продукція?"
+
+#: includes/theme-options.php:364
+#@ woothemes
+msgid "Specify how many featured products should appear on the homepage."
+msgstr "Вкажіть, скільки представлена ​​продукція повинна з'явитися на головній сторінці."
+
+#: includes/theme-options.php:369
+#@ woothemes
+msgid "Display recent products"
+msgstr "Показати останні продукти"
+
+#: includes/theme-options.php:370
+#@ woothemes
+msgid "Display recent products on the homepage?"
+msgstr "Показати останні продукти на головній сторінці?"
+
+#: includes/theme-options.php:374
+#@ woothemes
+msgid "Display how many recent products?"
+msgstr "Показати, скільки останніх продуктах?"
+
+#: includes/theme-options.php:375
+#@ woothemes
+msgid "Specify how many recent products should appear on the homepage."
+msgstr "Вкажіть, скільки останні продукти повинні з'явитися на головній сторінці."
+
+#: includes/theme-options.php:381
+#@ woothemes
+msgid "Blog"
+msgstr "Блог"
+
+#: includes/theme-options.php:383
+#@ woothemes
+msgid "Display latest blog posts"
+msgstr "Показати останні повідомлення в блозі"
+
+#: includes/theme-options.php:384
+#@ woothemes
+msgid "Display latest posts on the homepage?"
+msgstr "Показати останні повідомлення на головній сторінці?"
+
+#: includes/theme-options.php:389
+#@ woothemes
+msgid "Display how many posts?"
+msgstr "Показати, скільки повідомлень?"
+
+#: includes/theme-options.php:390
+#@ woothemes
+msgid "Specify how many posts should appear on the homepage."
+msgstr "Вкажіть, скільки повідомлень повинно з'явитися на головній сторінці."
+
+#: includes/theme-options.php:400
+#@ woothemes
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/theme-options.php:407
+#@ woothemes
+msgid "Products per page"
+msgstr "Товарів на сторінці"
+
+#: includes/theme-options.php:408
+#@ woothemes
+msgid "How many products do you want to display on product archive pages?"
+msgstr "Скільки продукції ви хочете відображати на сторінках продукту архіву?"
+
+#: includes/theme-options.php:413
+#@ woothemes
+msgid "Display product tabs"
+msgstr "Відображення вкладок продукту"
+
+#: includes/theme-options.php:414
+#@ woothemes
+msgid "Display the product review / attribute tabs in product details page"
+msgstr "Відображення Відгук про товар / атрибут вкладки на сторінці продукту"
+
+#: includes/theme-options.php:419
+#@ woothemes
+msgid "Display related products"
+msgstr "Відображення пов'язаних з ними продуктів"
+
+#: includes/theme-options.php:420
+#@ woothemes
+msgid "Display related products on the product details page"
+msgstr "Показати супутніх товарів на сторінці продукту"
+
+#: includes/theme-options.php:425
+#: includes/theme-options.php:880
+#@ woothemes
+msgid "Layout"
+msgstr "Компонування"
+
+#: includes/theme-options.php:428
+#@ woothemes
+msgid "Display the sidebar on shop archives?"
+msgstr "Відображення бічній панелі магазин архіви?"
+
+#: includes/theme-options.php:429
+#@ woothemes
+msgid "Global setting to show / hide the sidebar on product archive pages"
+msgstr "Глобальні налаштування, щоб показати / приховати бічну панель на сторінках продукту архіві"
+
+#: includes/theme-options.php:434
+#@ woothemes
+msgid "Display the sidebar on product pages?"
+msgstr "Відображення бічній панелі сторінки продукту?"
+
+#: includes/theme-options.php:435
+#@ default
+msgid "Global setting to show / hide the sidebar on <em>all</em> product pages"
+msgstr ""
+
+#: includes/theme-options.php:443
+#@ woothemes
+msgid "Dynamic Images"
+msgstr "Динамічне зображення"
+
+#: includes/theme-options.php:447
+#@ woothemes
+msgid "Resizer Settings"
+msgstr "Налаштування Зміни розміру"
+
+#: includes/theme-options.php:450
+#@ woothemes
+msgid "Dynamic Image Resizing"
+msgstr "Динамічне зміна розмірів зображення"
+
+#: includes/theme-options.php:453
+#@ woothemes
+msgid "There are two alternative methods of dynamically resizing the thumbnails in the theme, <strong>WP Post Thumbnail</strong> or <strong>TimThumb - Custom Settings panel</strong>. We recommend using WP Post Thumbnail option."
+msgstr "Існують два альтернативних методи динамічної зміни розміру мініатюр в тему, <strong>WP Повідомлення Мініатюра</strong> або <strong>TimThumb - Custom Панель налаштування</strong>. Ми рекомендуємо використовувати WP Повідомлення Мініатюра варіант."
+
+#: includes/theme-options.php:456
+#@ woothemes
+msgid "WP Post Thumbnail"
+msgstr "WP Мініатюра Повідомлення"
+
+#: includes/theme-options.php:457
+#@ woothemes
+msgid "Use WordPress post thumbnail to assign a post thumbnail. Will enable the <strong>Featured Image panel</strong> in your post sidebar where you can assign a post thumbnail."
+msgstr "Використання WordPress повідомлення маленьку картинку, щоб привласнити повідомленням мініатюр. Дозволить <strong>Популярні Зображення панелі</strong> у вашому пості бічну панель, де ви можете присвоїти повідомленням мініатюр."
+
+#: includes/theme-options.php:463
+#@ woothemes
+msgid "WP Post Thumbnail - Dynamic Image Resizing"
+msgstr "WP Повідомлення Зображення - динамічна зміна розмірів зображення"
+
+#: includes/theme-options.php:464
+#@ woothemes
+msgid "The post thumbnail will be dynamically resized using native WP resize functionality. <em>(Requires PHP 5.2+)</em>"
+msgstr "Поштові мініатюри буде динамічно змінений за допомогою рідним функціональні зміни розміру WP. <em>(Вимагає PHP 5.2 +)</em>"
+
+#: includes/theme-options.php:470
+#@ woothemes
+msgid "WP Post Thumbnail - Hard Crop"
+msgstr "WP Post Thumbnail - Hard Crop"
+
+#: includes/theme-options.php:471
+#@ woothemes
+msgid "The post thumbnail will be cropped to match the target aspect ratio (only used if \"Dynamic Image Resizing\" is enabled)."
+msgstr "Поштові мініатюри буде обрізане, щоб відповідати ставлення цільової аспект (використовується тільки тоді, коли \"Динамічна зміна розмірів зображення\" включено)."
+
+#: includes/theme-options.php:477
+#@ woothemes
+msgid "TimThumb - Custom Settings Panel"
+msgstr "TimThumb - Панель Користувацьких Налагоджень"
+
+#: includes/theme-options.php:478
+#, php-format
+#@ woothemes
+msgid "This will enable the %1$s (thumb.php) script which dynamically resizes images added through the <strong>custom settings panel below the post</strong>. Make sure your themes <em>cache</em> folder is writable. %2$s"
+msgstr "Це дозволить%1$s (thumb.php) скрипт, який динамічно змінює розмір зображення, додані через <strong>користувача настройки панелі нижче повідомлення </strong>. Переконайтеся, що ваші теми <em>кеш </ EM> папка для запису. %2$s"
+
+#: includes/theme-options.php:483
+#@ woothemes
+msgid "Automatic Image Thumbnail"
+msgstr "Автоматична Маленька картинка"
+
+#: includes/theme-options.php:484
+#@ woothemes
+msgid "If no thumbnail is specifified then the first uploaded image in the post is used."
+msgstr "Якщо немає ескізу specifified то перше завантажене зображення в повідомлення використовується."
+
+#: includes/theme-options.php:489
+#@ woothemes
+msgid "Thumbnail Settings"
+msgstr "Налаштування Мініатюр"
+
+#: includes/theme-options.php:492
+#@ woothemes
+msgid "Thumbnail Image Dimensions"
+msgstr "Розмір мініатюр зображень"
+
+#: includes/theme-options.php:493
+#@ woothemes
+msgid "Enter an integer value i.e. 250 for the desired size which will be used when dynamically creating the images."
+msgstr "Введіть ціле значення, тобто 250 для бажаного розміру, який буде використовуватися при створенні динамічного зображення."
+
+#: includes/theme-options.php:500
+#: includes/theme-options.php:530
+#@ woothemes
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/theme-options.php:504
+#: includes/theme-options.php:534
+#@ woothemes
+msgid "Height"
+msgstr "Висота"
+
+#: includes/theme-options.php:507
+#@ woothemes
+msgid "Thumbnail Alignment"
+msgstr "Положення Мініатюри"
+
+#: includes/theme-options.php:508
+#@ woothemes
+msgid "Select how to align your thumbnails with posts."
+msgstr "Виберіть, як узгодити ваші мініатюри з посади."
+
+#: includes/theme-options.php:512
+#: includes/theme-options.php:543
+#: includes/widgets/widget-woo-blogauthor.php:89
+#@ woothemes
+msgid "Left"
+msgstr "Зліва"
+
+#: includes/theme-options.php:512
+#: includes/theme-options.php:543
+#: includes/widgets/widget-woo-blogauthor.php:90
+#@ woothemes
+msgid "Right"
+msgstr "Справа "
+
+#: includes/theme-options.php:512
+#: includes/theme-options.php:543
+#: includes/theme-options.php:851
+#@ woothemes
+msgid "Center"
+msgstr "По Центру"
+
+#: includes/theme-options.php:514
+#@ woothemes
+msgid "Single Post - Show Thumbnail"
+msgstr "Запис - Показати Мініатюру"
+
+#: includes/theme-options.php:515
+#@ woothemes
+msgid "Show the thumbnail in the single post page."
+msgstr "Показати ескіз в одній сторінці поста."
+
+#: includes/theme-options.php:521
+#@ woothemes
+msgid "Single Post - Thumbnail Dimensions"
+msgstr "Повідомлення окремо - Мініатюра"
+
+#: includes/theme-options.php:522
+#@ woothemes
+msgid "Enter an integer value i.e. 250 for the image size. Max width is 576."
+msgstr "Введіть ціле значення, тобто 250 для розміру зображення. Максимальна ширина 576."
+
+#: includes/theme-options.php:537
+#@ woothemes
+msgid "Single Post - Thumbnail Alignment"
+msgstr "Повідомлення окремо - Розташування Зображення"
+
+#: includes/theme-options.php:538
+#@ woothemes
+msgid "Select how to align your thumbnail with single posts."
+msgstr "Виберіть, як узгодити ваші мініатюри з однієї посади."
+
+#: includes/theme-options.php:545
+#@ woothemes
+msgid "Add thumbnail to RSS feed"
+msgstr "Додати на мініатюру для подачі RSS"
+
+#: includes/theme-options.php:546
+#@ woothemes
+msgid "Add the the image uploaded via your Custom Settings panel to your RSS feed"
+msgstr "Додати зображення завантажені з допомогою користувальницького панель налаштування на ваш канал RSS"
+
+#: includes/theme-options.php:551
+#@ woothemes
+msgid "Enable Lightbox"
+msgstr "Включити Lightbox"
+
+#: includes/theme-options.php:552
+#@ woothemes
+msgid "Enable the PrettyPhoto lighbox script on images within your website's content."
+msgstr "Включити сценарій PrettyPhoto lighbox на зображеннях в утриманні вашого сайту."
+
+#: includes/theme-options.php:559
+#@ woothemes
+msgid "Footer Customization"
+msgstr "Налаштування Низу"
+
+#: includes/theme-options.php:564
+#@ woothemes
+msgid "Footer Widget Areas"
+msgstr "Область Віджетів Низу"
+
+#: includes/theme-options.php:565
+#@ woothemes
+msgid "Select how many footer widget areas you want to display."
+msgstr "Виберіть, скільки колонтитула області віджета ви хочете показати."
+
+#: includes/theme-options.php:577
+#@ woothemes
+msgid "Custom Affiliate Link"
+msgstr "Користувальницькі Партнерська Посилання"
+
+#: includes/theme-options.php:578
+#@ woothemes
+msgid "Add an affiliate link to the WooThemes logo in the footer of the theme."
+msgstr "Додати партнерську посилання на WooThemes логотип в футері теми."
+
+#: includes/theme-options.php:583
+#@ woothemes
+msgid "Enable Custom Footer (Left)"
+msgstr "Включити Користувацький Низ (лівий)"
+
+#: includes/theme-options.php:584
+#: includes/theme-options.php:596
+#@ woothemes
+msgid "Activate to add the custom text below to the theme footer."
+msgstr "Активувати, щоб додати свій текст нижче, щоб тема колонтитула."
+
+#: includes/theme-options.php:589
+#@ woothemes
+msgid "Custom Text (Left)"
+msgstr "Користувацький Текст (Зліва)"
+
+#: includes/theme-options.php:590
+#: includes/theme-options.php:602
+#@ woothemes
+msgid "Custom HTML and Text that will appear in the footer of your theme."
+msgstr "Особливий HTML і текст, який буде відображатися в нижній частині вашої теми."
+
+#: includes/theme-options.php:595
+#@ woothemes
+msgid "Enable Custom Footer (Right)"
+msgstr "Включити Користувацький Низ (Справа)"
+
+#: includes/theme-options.php:601
+#@ woothemes
+msgid "Custom Text (Right)"
+msgstr "Користувацький Текст (Справа)"
+
+#: includes/theme-options.php:609
+#@ woothemes
+msgid "Subscribe & Connect"
+msgstr "Підписатися і підключитись"
+
+#: includes/theme-options.php:613
+#@ woothemes
+msgid "Setup"
+msgstr "Установка"
+
+#: includes/theme-options.php:616
+#@ woothemes
+msgid "Enable Subscribe & Connect - Single Post"
+msgstr "Включити Підпишись та Підключись - Окремий Запис"
+
+#: includes/theme-options.php:617
+#, php-format
+#@ woothemes
+msgid "Enable the subscribe & connect area on single posts. You can also add this as a %1$s in your sidebar."
+msgstr "Включити підписку і підключити області на одній посаді. Ви також можете додати це як %1$s на бічній панелі."
+
+#: includes/theme-options.php:622
+#@ woothemes
+msgid "Subscribe Title"
+msgstr "Підписати Назву"
+
+#: includes/theme-options.php:623
+#@ woothemes
+msgid "Enter the title to show in your subscribe & connect area."
+msgstr "Введіть назву, щоб показати у вашій підписки і підключити області."
+
+#: includes/theme-options.php:628
+#@ woothemes
+msgid "Text"
+msgstr "Текст"
+
+#: includes/theme-options.php:629
+#@ woothemes
+msgid "Change the default text in this area."
+msgstr "Зміни звичний текст в цій зоні."
+
+#: includes/theme-options.php:634
+#@ woothemes
+msgid "Enable Related Posts"
+msgstr "Включити Схожі Повідомлення"
+
+#: includes/theme-options.php:635
+#@ woothemes
+msgid "Enable related posts in the subscribe area. Uses posts with the same <strong>tags</strong> to find related posts. Note: Will not show in the Subscribe widget."
+msgstr "Включити відповідні посади в області передплати. Використання повідомлень з тими ж  <strong>тегами</strong>, щоб знайти відповідні повідомлення. Примітка: не буде відображатися в віджеті Підписатися."
+
+#: includes/theme-options.php:640
+#@ woothemes
+msgid "Subscribe Settings"
+msgstr "Налаштування Підписки"
+
+#: includes/theme-options.php:643
+#@ woothemes
+msgid "Subscribe By E-mail ID (Feedburner)"
+msgstr "Підписатися за допомогою E-mail ID (Feedburner)"
+
+#: includes/theme-options.php:644
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s for the e-mail subscription form."
+msgstr "Вкажіть %1$s для електронної пошти, форми підписки."
+
+#: includes/theme-options.php:644
+#@ woothemes
+msgid "Feedburner ID"
+msgstr "Feedburner ID"
+
+#: includes/theme-options.php:649
+#@ woothemes
+msgid "Subscribe By E-mail to MailChimp"
+msgstr "Підписатися за допомогою E-mail до MailChimp"
+
+#: includes/theme-options.php:650
+#, php-format
+#@ woothemes
+msgid "If you have a MailChimp account you can enter the %1$s to allow your users to subscribe to a MailChimp List."
+msgstr "Якщо у вас є MailChimp рахунку, ви можете увійти в %1$s, щоб дозволити користувачам підписатися на MailChimp List."
+
+#: includes/theme-options.php:650
+#@ woothemes
+msgid "MailChimp List Subscribe URL"
+msgstr "Посилання до підписки на список MailChimp"
+
+#: includes/theme-options.php:655
+#@ woothemes
+msgid "Connect Settings"
+msgstr "Налаштування З'єднання"
+
+#: includes/theme-options.php:658
+#@ woothemes
+msgid "Enable RSS"
+msgstr "Включити RSS"
+
+#: includes/theme-options.php:659
+#@ woothemes
+msgid "Enable the subscribe and RSS icon."
+msgstr "Включити підписку і RSS значок."
+
+#: includes/theme-options.php:664
+#@ woothemes
+msgid "Twitter URL"
+msgstr "Посилання Twitter"
+
+#: includes/theme-options.php:665
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s URL e.g. http://www.twitter.com/woothemes"
+msgstr "Введіть ваше %1$s посилання, наприклад http://www.twitter.com/woothemes"
+
+#: includes/theme-options.php:665
+#@ woothemes
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/theme-options.php:670
+#@ woothemes
+msgid "Facebook URL"
+msgstr "Посилання Facebook"
+
+#: includes/theme-options.php:671
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s URL e.g. http://www.facebook.com/woothemes"
+msgstr "Введіть ваше %1$s посилання, наприклад http://www.facebook.com/woothemes"
+
+#: includes/theme-options.php:671
+#@ woothemes
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/theme-options.php:676
+#@ woothemes
+msgid "YouTube URL"
+msgstr "Посилання YouTube"
+
+#: includes/theme-options.php:677
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s URL e.g. http://www.youtube.com/woothemes"
+msgstr "Введіть ваше %1$s посилання, наприклад http://www.youtube.com/woothemes"
+
+#: includes/theme-options.php:677
+#@ woothemes
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/theme-options.php:682
+#@ woothemes
+msgid "Flickr URL"
+msgstr "Посилання Flickr"
+
+#: includes/theme-options.php:683
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s URL e.g. http://www.flickr.com/woothemes"
+msgstr "Введіть ваше %1$s посилання, наприклад http://www.flickr.com/woothemes"
+
+#: includes/theme-options.php:683
+#@ woothemes
+msgid "Flickr"
+msgstr "Flickr"
+
+#: includes/theme-options.php:688
+#@ woothemes
+msgid "LinkedIn URL"
+msgstr "Посилання LinkedIn"
+
+#: includes/theme-options.php:689
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s URL e.g. http://www.linkedin.com/in/woothemes"
+msgstr "Введіть ваше %1$s посилання, наприклад http://www.linkedin.com/in/woothemes"
+
+#: includes/theme-options.php:689
+#@ woothemes
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/theme-options.php:694
+#@ woothemes
+msgid "Delicious URL"
+msgstr "Посилання Delicious"
+
+#: includes/theme-options.php:695
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s URL e.g. http://www.delicious.com/woothemes"
+msgstr "Введіть ваше %1$s посилання, наприклад http://www.delicious.com/woothemes"
+
+#: includes/theme-options.php:695
+#@ woothemes
+msgid "Delicious"
+msgstr "Delicious"
+
+#: includes/theme-options.php:700
+#@ woothemes
+msgid "Google+ URL"
+msgstr "Посилання Google+"
+
+#: includes/theme-options.php:701
+#, php-format
+#@ woothemes
+msgid "Enter your %1$s URL e.g. https://plus.google.com/104560124403688998123/"
+msgstr "Введіть ваше %1$s посилання наприклад https://plus.google.com/104560124403688998123/"
+
+#: includes/theme-options.php:701
+#@ woothemes
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/theme-options.php:708
+#@ woothemes
+msgid "Advertising"
+msgstr "Реклама"
+
+#: includes/theme-options.php:712
+#@ woothemes
+msgid "Adsense code"
+msgstr "Код Adsense"
+
+#: includes/theme-options.php:713
+#@ woothemes
+msgid "Enter your adsense code (or other ad network code) here."
+msgstr "Введіть ваш AdSense код (або інший код рекламної мережі) тут."
+
+#: includes/theme-options.php:720
+#@ woothemes
+msgid "Contact Page"
+msgstr "Сторінка Контакти"
+
+#: includes/theme-options.php:724
+#@ woothemes
+msgid "Contact Information"
+msgstr "Контактна Інформація"
+
+#: includes/theme-options.php:727
+#@ woothemes
+msgid "Enable Contact Information Panel"
+msgstr "Включити Панель Контактної Інформації"
+
+#: includes/theme-options.php:728
+#@ woothemes
+msgid "Enable the contact informal panel"
+msgstr "Включити панель контактної інформації"
+
+#: includes/theme-options.php:734
+#@ woothemes
+msgid "Location Name"
+msgstr "Місцезнаходження"
+
+#: includes/theme-options.php:735
+#@ woothemes
+msgid "Enter the location name. Example: London Office"
+msgstr "Введіть місцезнаходження. Наприклад: Офіс у Лондоні"
+
+#: includes/theme-options.php:741
+#@ woothemes
+msgid "Location Address"
+msgstr "Адреса Місця Знаходження "
+
+#: includes/theme-options.php:742
+#@ woothemes
+msgid "Enter your company's address"
+msgstr "Введіть адресу вашої компанії"
+
+#: includes/theme-options.php:748
+#@ woothemes
+msgid "Telephone"
+msgstr "Телефон"
+
+#: includes/theme-options.php:749
+#@ woothemes
+msgid "Enter your telephone number"
+msgstr "Введіть номер вашого телефону"
+
+#: includes/theme-options.php:755
+#@ woothemes
+msgid "Fax"
+msgstr "Факс"
+
+#: includes/theme-options.php:756
+#@ woothemes
+msgid "Enter your fax number"
+msgstr "Введіть номер вашого факсу"
+
+#: includes/theme-options.php:762
+#@ woothemes
+msgid "Contact Form E-Mail"
+msgstr "Контактна форма E-Mail"
+
+#: includes/theme-options.php:763
+#@ woothemes
+msgid "Enter your E-mail address to use on the 'Contact Form' page Template."
+msgstr "Вкажіть адресу електронної пошти, щоб використовувати на сторінці шаблону 'Контактна Форма'."
+
+#: includes/theme-options.php:768
+#@ woothemes
+msgid "Your Twitter username"
+msgstr "Ваше ім'я користувача Twitter"
+
+#: includes/theme-options.php:769
+#@ woothemes
+msgid "Enter your Twitter username. Example: woothemes"
+msgstr "Введіть ім'я користувача Twitter. Наприклад: woothemes"
+
+#: includes/theme-options.php:774
+#@ woothemes
+msgid "Enable Subscribe and Connect"
+msgstr "Включити Підпишіться і Підключіться"
+
+#: includes/theme-options.php:775
+#@ woothemes
+msgid "Enable the subscribe and connect functionality on the contact page template"
+msgstr "Включити підписку і підключити функції на сторінці шаблону контакт"
+
+#: includes/theme-options.php:780
+#@ woothemes
+msgid "Maps"
+msgstr "Мапи"
+
+#: includes/theme-options.php:783
+#@ woothemes
+msgid "Contact Form Google Maps Coordinates"
+msgstr "Зв'язатися з допомогою Google Maps Координати"
+
+#: includes/theme-options.php:784
+#, php-format
+#@ woothemes
+msgid "Enter your Google Map coordinates to display a map on the Contact Form page template and a link to it on the Contact Us widget. You can get these details from %1$s"
+msgstr "Введіть ваш Google Map координат для відображення карти на сторінці шаблону Форма Контакту та посилання на нього на Зв'яжіться з Нами віджета. Ви можете отримати ці дані від %1$s"
+
+#: includes/theme-options.php:784
+#@ woothemes
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/theme-options.php:789
+#@ woothemes
+msgid "Disable Mousescroll"
+msgstr "Відключити прокрутку миши"
+
+#: includes/theme-options.php:790
+#@ woothemes
+msgid "Turn off the mouse scroll action for all the Google Maps on the site. This could improve usability on your site."
+msgstr "Відключити прокрутки миші дій для всіх Google Maps на сайті. Це могло б поліпшити юзабіліті вашого сайту."
+
+#: includes/theme-options.php:795
+#@ woothemes
+msgid "Map Height"
+msgstr "Висота Мапи"
+
+#: includes/theme-options.php:796
+#@ woothemes
+msgid "Height in pixels for the maps displayed on Single.php pages."
+msgstr "Висота в пікселях для карт. що відобразиться на Single.php сторінках."
+
+#: includes/theme-options.php:801
+#@ woothemes
+msgid "Default Map Zoom Level"
+msgstr "Звичний Рівень Наближення Мапи"
+
+#: includes/theme-options.php:802
+#@ woothemes
+msgid "Set this to adjust the default in the post & page edit backend."
+msgstr "Встановіть для настроювання за замовчуванням в пості і серверної сторінки редагування."
+
+#: includes/theme-options.php:808
+#@ woothemes
+msgid "Default Map Type"
+msgstr "Звичний Тип Мапи"
+
+#: includes/theme-options.php:809
+#@ woothemes
+msgid "Set this to the default rendered in the post backend."
+msgstr "Встановіть за замовчуванням відображаються в пост бекенда."
+
+#: includes/theme-options.php:813
+#@ woothemes
+msgid "Normal"
+msgstr "Звичайний"
+
+#: includes/theme-options.php:813
+#@ woothemes
+msgid "Satellite"
+msgstr "Супутник"
+
+#: includes/theme-options.php:813
+#@ woothemes
+msgid "Hybrid"
+msgstr "Гібрідн"
+
+#: includes/theme-options.php:813
+#@ woothemes
+msgid "Terrain"
+msgstr "Територія"
+
+#: includes/theme-options.php:815
+#@ woothemes
+msgid "Map Callout Text"
+msgstr "Текст Виноски Мапи"
+
+#: includes/theme-options.php:816
+#@ woothemes
+msgid "Text or HTML that will be output when you click on the map marker for your location."
+msgstr "Текст або HTML, які будуть виводитися при натисканні на маркер карти для вашого місця розташування."
+
+#: includes/theme-options.php:846
+#: includes/theme-options.php:864
+#@ woothemes
+msgid "Image"
+msgstr "Зображення"
+
+#: includes/theme-options.php:848
+#@ woothemes
+msgid "Upload an image or enter an URL."
+msgstr "Завантажте зображення, або введіть посилання."
+
+#: includes/theme-options.php:852
+#@ woothemes
+msgid "Image Crop Alignment"
+msgstr "Вирівнювання Обрізання Зображення"
+
+#: includes/theme-options.php:854
+#@ woothemes
+msgid "Select crop alignment for resized image"
+msgstr "Вибрати вирівнювання обрізання для зміни розміру зображення"
+
+#: includes/theme-options.php:866
+#, php-format
+#@ woothemes
+msgid "%1$s is disabled. Use the %2$s panel in the sidebar instead, or enable TimThumb in the options panel."
+msgstr "%1$s відключена. Використовуйте %2$s панелі на бічній панелі замість цього, або включити TimThumb в панелі налаштувань."
+
+#: includes/theme-options.php:866
+#@ woothemes
+msgid "TimThumb"
+msgstr "TimThumb"
+
+#: includes/theme-options.php:872
+#@ woothemes
+msgid "Embed Code"
+msgstr "Код для вставки"
+
+#: includes/theme-options.php:874
+#@ woothemes
+msgid "Enter the video embed code for your video (YouTube, Vimeo or similar)"
+msgstr "Введіть код для вставки вашего відео (YouTube, Vimeo чи подібне)"
+
+#: includes/theme-options.php:882
+#@ woothemes
+msgid "Select the layout you want on this specific post/page."
+msgstr "Виберіть макет, який ви хочете застосувати у цьому пості/сторінці."
+
+#: includes/theme-woocommerce.php:107
+#@ default
+msgid "Search Products:"
+msgstr ""
+
+#: includes/theme-woocommerce.php:108
+#@ default
+msgid "Search Products"
+msgstr ""
+
+#: includes/theme-woocommerce.php:109
+#: search-form.php:20
+#@ default
+#@ woothemes
+msgid "Search"
+msgstr "Пошук"
+
+#: includes/theme-woocommerce.php:296
+#: template-sitemap.php:76
+#@ woothemes
+msgid "Product Categories"
+msgstr "Категорії товару"
+
+#: includes/theme-woocommerce.php:305
+#@ woothemes
+msgid "Featured Products"
+msgstr "Рекомендовані Товари"
+
+#: includes/theme-woocommerce.php:314
+#@ woothemes
+msgid "Recent Products"
+msgstr "Новинки"
+
+#: includes/theme-woocommerce.php:334
+#, php-format
+#@ woothemes
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d позиція"
+msgstr[1] "%d позиція"
+msgstr[2] "%d позиція"
+
+#: includes/theme-woocommerce.php:334
+#@ woothemes
+msgid "in your shopping cart"
+msgstr "у Вашому кошику"
+
+#: includes/widgets/widget-woo-adspace.php:17
+#@ woothemes
+msgid "Woo - Adspace Widget"
+msgstr "Woo - Adspace Widget"
+
+#: includes/widgets/widget-woo-adspace.php:63
+#: includes/widgets/widget-woo-subscribe.php:67
+#@ woothemes
+msgid "Title (optional):"
+msgstr "Заголовок (не обов'язково):"
+
+#: includes/widgets/widget-woo-adspace.php:68
+#@ woothemes
+msgid "Ad Code:"
+msgstr "Код реклами:"
+
+#: includes/widgets/widget-woo-adspace.php:74
+#@ woothemes
+msgid "Image Url:"
+msgstr "Шлях до світлини:"
+
+#: includes/widgets/widget-woo-adspace.php:78
+#@ woothemes
+msgid "Link URL:"
+msgstr "Шлях до посилання:"
+
+#: includes/widgets/widget-woo-adspace.php:82
+#@ woothemes
+msgid "Alt text:"
+msgstr "Альтернативний текст:"
+
+#: includes/widgets/widget-woo-blogauthor.php:16
+#@ woothemes
+msgid "Woo - Blog Author Info"
+msgstr "Woo - Інформація про автора блогу"
+
+#: includes/widgets/widget-woo-blogauthor.php:71
+#: includes/widgets/widget-woo-embed.php:101
+#: includes/widgets/widget-woo-search.php:54
+#@ woothemes
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/widgets/widget-woo-blogauthor.php:75
+#@ woothemes
+msgid "Bio:"
+msgstr "Біографія:"
+
+#: includes/widgets/widget-woo-blogauthor.php:79
+#@ woothemes
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+
+#: includes/widgets/widget-woo-blogauthor.php:83
+#@ woothemes
+msgid "Gravatar Size:"
+msgstr "Розмір Gravatar:"
+
+#: includes/widgets/widget-woo-blogauthor.php:87
+#@ woothemes
+msgid "Gravatar Alignment:"
+msgstr "Положення Gravatar-у:"
+
+#: includes/widgets/widget-woo-blogauthor.php:94
+#@ woothemes
+msgid "Read More Text (optional):"
+msgstr "Читати далі (небов'язково):"
+
+#: includes/widgets/widget-woo-blogauthor.php:98
+#@ woothemes
+msgid "Read More URL (optional):"
+msgstr "Посилання читати далі (небов'язково):"
+
+#: includes/widgets/widget-woo-blogauthor.php:102
+#@ woothemes
+msgid "Visible Pages:"
+msgstr "Відображені сторінки:"
+
+#: includes/widgets/widget-woo-blogauthor.php:104
+#@ woothemes
+msgid "All"
+msgstr "Всі"
+
+#: includes/widgets/widget-woo-blogauthor.php:105
+#@ woothemes
+msgid "Home only"
+msgstr "Тільки домашня"
+
+#: includes/widgets/widget-woo-blogauthor.php:106
+#@ woothemes
+msgid "Single only"
+msgstr "Тільки одна"
+
+#: includes/widgets/widget-woo-embed.php:17
+#@ woothemes
+msgid "Woo - Embed/Video"
+msgstr "Woo - Вбудоване/Відео"
+
+#: includes/widgets/widget-woo-embed.php:105
+#@ woothemes
+msgid "Category:"
+msgstr "Категорія:"
+
+#: includes/widgets/widget-woo-embed.php:117
+#@ woothemes
+msgid "Tag:"
+msgstr "Тег:"
+
+#: includes/widgets/widget-woo-embed.php:122
+#: includes/widgets/widget-woo-flickr.php:109
+#@ woothemes
+msgid "Size:"
+msgstr "Розмір:"
+
+#: includes/widgets/widget-woo-embed.php:128
+#@ woothemes
+msgid "Limit (optional):"
+msgstr "Обмеження (необов'язково):"
+
+#: includes/widgets/widget-woo-flickr.php:16
+#@ woothemes
+msgid "Woo - Flickr"
+msgstr "Woo - Flickr"
+
+#: includes/widgets/widget-woo-flickr.php:26
+#@ woothemes
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr "Світлина з <span>flick<span>r</span></span>"
+
+#: includes/widgets/widget-woo-flickr.php:83
+#@ woothemes
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: includes/widgets/widget-woo-flickr.php:87
+#@ woothemes
+msgid "Number:"
+msgstr "Кількість:"
+
+#: includes/widgets/widget-woo-flickr.php:95
+#@ woothemes
+msgid "Type:"
+msgstr "Тип:"
+
+#: includes/widgets/widget-woo-flickr.php:97
+#@ woothemes
+msgid "User"
+msgstr "Користувач"
+
+#: includes/widgets/widget-woo-flickr.php:98
+#@ woothemes
+msgid "Group"
+msgstr "Група"
+
+#: includes/widgets/widget-woo-flickr.php:102
+#@ woothemes
+msgid "Sorting:"
+msgstr "Сортування:"
+
+#: includes/widgets/widget-woo-flickr.php:104
+#@ woothemes
+msgid "Latest"
+msgstr "Останні"
+
+#: includes/widgets/widget-woo-flickr.php:105
+#@ woothemes
+msgid "Random"
+msgstr "Видапкові"
+
+#: includes/widgets/widget-woo-flickr.php:111
+#@ woothemes
+msgid "Square"
+msgstr "Вирівняти"
+
+#: includes/widgets/widget-woo-flickr.php:112
+#@ woothemes
+msgid "Medium"
+msgstr "Середне"
+
+#: includes/widgets/widget-woo-flickr.php:113
+#@ woothemes
+msgid "Thumbnail"
+msgstr "Мініатюра"
+
+#: includes/widgets/widget-woo-search.php:16
+#@ woothemes
+msgid "Woo - Search"
+msgstr "Woo - Пошук"
+
+#: includes/widgets/widget-woo-subscribe.php:16
+#@ woothemes
+msgid "Woo - Subscribe / Connect"
+msgstr "Woo - Підписатися / Під'єднатися"
+
+#: includes/widgets/widget-woo-subscribe.php:71
+#@ woothemes
+msgid "Disable Subscription Form"
+msgstr "Відключити Форму Підписки"
+
+#: includes/widgets/widget-woo-subscribe.php:74
+#@ woothemes
+msgid "Disable Social Icons"
+msgstr "Відключити Соціальні Іконки"
+
+#: includes/widgets/widget-woo-subscribe.php:77
+#@ woothemes
+msgid "Disable in Posts"
+msgstr "Відключити у Записі"
+
+#: includes/widgets/widget-woo-subscribe.php:80
+#@ woothemes
+msgid "Disable in Pages"
+msgstr "Відключити у Сторінках"
+
+#: page.php:41
+#: single.php:72
+#@ woothemes
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: page.php:44
+#: template-fullwidth.php:40
+#@ woothemes
+msgid "{ Edit }"
+msgstr "{ Редагувати }"
+
+#: search-form.php:19
+#@ woothemes
+msgid "Search for:"
+msgstr "Шукати:"
+
+#: search.php:31
+#@ woothemes
+msgid "Search results:"
+msgstr "Шукати результати:"
+
+#: template-archives.php:42
+#@ woothemes
+msgid "The Last 30 Posts"
+msgstr "Останні 30 Постів"
+
+#: template-archives.php:51
+#@ woothemes
+msgid "comments"
+msgstr "коментарі"
+
+#: template-archives.php:62
+#: template-sitemap.php:48
+#@ woothemes
+msgid "Categories"
+msgstr "Категорії"
+
+#: template-archives.php:69
+#@ woothemes
+msgid "Monthly Archives"
+msgstr "Щомісячний Архіви"
+
+#: template-contact.php:35
+#@ woothemes
+msgid "You forgot to enter your name."
+msgstr "Ви забули ввести своє ім'я."
+
+#: template-contact.php:43
+#@ woothemes
+msgid "You forgot to enter your email address."
+msgstr "Ви забули ввести свій email."
+
+#: template-contact.php:46
+#@ woothemes
+msgid "You entered an invalid email address."
+msgstr "Ви ввели невірну email адресу."
+
+#: template-contact.php:54
+#@ woothemes
+msgid "You forgot to enter your comments."
+msgstr "Ви забули ввести свої коментарі."
+
+#: template-contact.php:64
+#@ woothemes
+msgid "Contact Form Submission from "
+msgstr "Контактна Форма Підтвердження до"
+
+#: template-contact.php:72
+#@ woothemes
+msgid "You emailed "
+msgstr "Ви віпдисалися"
+
+#: template-contact.php:92
+#@ woothemes
+msgid "You forgot to enter your"
+msgstr "Ви забули ввести ваш"
+
+#: template-contact.php:99
+#@ woothemes
+msgid "You entered an invalid"
+msgstr "Ви ввели невірний"
+
+#: template-contact.php:109
+#@ woothemes
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr "<strong>Дякуємо!</strong> Ваше повідомлення було успішно відправлено."
+
+#: template-contact.php:152
+#@ woothemes
+msgid "Tel:"
+msgstr "Тел:"
+
+#: template-contact.php:153
+#@ woothemes
+msgid "Fax:"
+msgstr "Факс:"
+
+#: template-contact.php:154
+#@ woothemes
+msgid "Email:"
+msgstr "Email:"
+
+#: template-contact.php:182
+#@ woothemes
+msgid "There was an error submitting the form."
+msgstr "Виникла помилка при відправленні форми."
+
+#: template-sitemap.php:44
+#@ woothemes
+msgid "Pages"
+msgstr "Сторінки"
+
+#: template-sitemap.php:52
+#@ woothemes
+msgid "Posts per category"
+msgstr "Записів у категорії"
+
+#: template-sitemap.php:67
+#@ woothemes
+msgid "Comments"
+msgstr "Коментарі"
+
+#: template-timeline.php:88
+#@ woothemes
+msgid "1 comment"
+msgstr "1 коментар"
+
+#: template-timeline.php:88
+#@ woothemes
+msgid "% comments"
+msgstr "% коментарів"
+
